@@ -13,9 +13,9 @@ TypTvaru – to je jenom enum s výčtem těch tvarů jako kostička křížek e
 Ovládání:   pohyb do stran je ovládán šipkami a rotace předmětu klávesou r
 
 Metody v form1:
-private void CreateGrid()
-private void Form1_KeyDown()
-private void timer1_Tick()
+- private void CreateGrid()
+- private void Form1_KeyDown()
+- private void timer1_Tick()
 private void RotujTvar()
 private void posuv()
 private void ZkontrolujSmazaniRad()
