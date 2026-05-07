@@ -31,3 +31,6 @@ private void ResetujHru()
 private void listView1_KeyDown()
 private void listView1_ItemSelectionChanged()
 
+## Ukázka ze hry
+![Hra](image.png)
+
